@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
 
-f = open("chall.mid").read()
-print f
+from stack import *
+
+#f = open("chall.mid").read()
+
+
+
+push(5)
+print pop()
